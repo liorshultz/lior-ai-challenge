@@ -11,3 +11,5 @@ alwaysApply: false
 - You should use Next.js as it works best with Vercel. 
 - This frontend will ultimately be deployed on Vercel, but it should be possible to test locally. 
 - Always provide users with a way to run the created UI once you have created it.
+- Use the color scheme availabe on NYDIG.com. Make the colors pop, use deep blue and teal.
+- Not too agressively, try to also sneak in images of Bitcoin and use a bit of orange when appropriate.

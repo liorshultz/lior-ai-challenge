@@ -1,0 +1,4 @@
+.ai_challenge
+.venv
+node_modules
+.next 
